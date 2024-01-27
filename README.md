@@ -19,6 +19,10 @@ This project is a ROS2-based system designed for robotic mapping and point cloud
 
 ![demo2](https://github.com/AryanKumarNadipally/ROS2-Based-Point-Cloud-Processing-and-Robotic-Mapping-System/assets/143588978/3215d372-7d0e-465f-b259-605fa793eb22)
 
+## Video Output
+
+[https://www.dropbox.com/scl/fi/tokqi84wjdeut2k0xzykc/demo.mp4?rlkey=auxw3rt1bha0g8itx14tw8s4v&dl=0]
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
